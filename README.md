@@ -5,14 +5,14 @@
 
 Aqui estão algumas ideias para você começar:
 
-- 🔭 Atualmente estou trabalhando em...
-- 🌱 Estou aprendendo Python para Web Desenvolvimento
-- 👯 Estou procurando colaborar em Devs e Develops
-- 🤔 Estou procurando ajuda com Cursos
+- 🔭 Atualmente estou trabalhando em Analista de Suporte de TI na GlobalWeb
+- 🌱 Estou aprendendo Python para Web Desenvolvimento + Java Developer + Business Intelligence + SQL Server + MySQL + Oracle + T-SQL + PLSQL + Data Science
+- 👯 Estou procurando colaborar em Devs e Developers, além de outras Áreas
+- 🤔 Estou procurando ajuda com Cursos e Códigos Fontes
 - 💬 Pergunte-me sobre tudo em TI
-- 📫 Como chegar até mim: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- 📫 Como chegar até mim: https://www.linkedin.com/in/jonas-serafim-76497432/
+- 😄 Pronomes: Serajonas ou Mister PC
+- ⚡ Curiosidade: Meu Primeiro Curso foi em QBasic / DOS / WordStar
 
 
 <a href="#">
