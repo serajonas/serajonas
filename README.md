@@ -5,7 +5,8 @@
 
 Aqui estão algumas ideias para você começar:
 
-- 🔭 Atualmente estou trabalhando em Analista de Suporte de TI na Magsac Embalagens
+- 🔭 Atualmente estou trabalhando de Coordenador de TI no Grupo A Executiva.
+- 📚 Cursando Gestão de Tecnologio da Informação na Faculdade Estácio
 - 🌱 Estou aprendendo Python para Web Desenvolvimento + Java Developer + Business Intelligence + SQL Server + MySQL + Oracle + T-SQL + PLSQL + Data Science
 - 👯 Estou procurando colaborar em Devs e Developers, além de outras Áreas
 - 🤔 Estou procurando ajuda com Cursos de Front-End e Back-End e Códigos Fontes
